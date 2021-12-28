@@ -7,4 +7,4 @@ Proyectos realizados en [42Madrid](https://www.42madrid.com/) (C, C++, Shell Uni
 * [fract-ol](https://github.com/ivanoriola/42/tree/main/fract-ol)
 * [minitalk](https://github.com/ivanoriola/42/tree/main/minitalk)
 * [push_swap](https://github.com/ivanoriola/42/tree/main/push_swap)
-* [cub3d](https://github.com/ivanoriola/42/tree/main/cub3d)
+* [cub3d](https://github.com/ivanoriola/42/tree/main/cub3d): Mi primer **RayCaster** con miniLibX
