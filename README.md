@@ -8,3 +8,4 @@ Proyectos realizados en [42Madrid](https://www.42madrid.com/) (C, C++, Shell Uni
 * [minitalk](https://github.com/ivanoriola/42/tree/main/minitalk): Communication programs, client and server.
 * [push_swap](https://github.com/ivanoriola/42/tree/main/push_swap): Sorting values algorithm.
 * [cub3d](https://github.com/ivanoriola/42/tree/main/cub3d): My first RayCaster with miniLibX
+* [Philosophers](): Resolve "Dining philosophers problem" with multithreading.
