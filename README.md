@@ -7,5 +7,5 @@ Proyectos realizados en [42Madrid](https://www.42madrid.com/) (C, C++, Shell Uni
 * [fract-ol](https://github.com/ivanoriola/42/tree/main/fract-ol): Create fractals with miniLibx.
 * [minitalk](https://github.com/ivanoriola/42/tree/main/minitalk): Communication programs, client and server.
 * [push_swap](https://github.com/ivanoriola/42/tree/main/push_swap): Sorting values algorithm.
-* [cub3d](https://github.com/ivanoriola/42/tree/main/cub3d): My first RayCaster with miniLibX
+* [cub3d](https://github.com/ivanoriola/42/tree/main/cub3d): My first RayCaster with miniLibX.
 * [philosophers](https://github.com/ivanoriola/42/tree/main/philosophers): Resolve "Dining philosophers problem" with multithreading.
