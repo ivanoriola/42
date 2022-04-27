@@ -1,1 +1,1 @@
-![philosophers](https://github.com/ivanoriola/42/blob/ee981a7c1d337b64a05bea5476936e5ba6037f45/images/philosophers.png)
+![philosophers](https://github.com/ivanoriola/42/blob/3f521ca02334d53ac481c29f6ab52f440ef1f9af/images/philosophers.png)
