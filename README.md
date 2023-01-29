@@ -9,3 +9,4 @@ Proyectos realizados en [42Madrid](https://www.42madrid.com/) (C, C++, Shell Uni
 * [push_swap](https://github.com/ivanoriola/42/tree/main/push_swap): Sorting values algorithm.
 * [cub3d](https://github.com/ivanoriola/42/tree/main/cub3d): My first RayCaster with miniLibX.
 * [philosophers](https://github.com/ivanoriola/42/tree/main/philosophers): Resolve "Dining philosophers problem" with multithreading.
+* [minishell](https://github.com/ivanoriola/42/tree/main/minishell): The objective of this project is for you to create a simple shell.
